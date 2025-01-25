@@ -70,10 +70,10 @@
 
 <h3 align="left">✨ About Me:</h3>  
 <ul>  
-  <li>🧑‍💻 Currently exploring <b>IoT</b>, <b>Machine Learning</b>, and <b>Data Structures</b>.</li>  
-  <li>🚀 <b>Entrepreneurial Dreamer.</li>  
-  <li>📚 Constant learner, whether it's coding or discovering how to optimize life.</li>  
-  <li>🎮 Tech enthusiast.</li>  
+  <li>🧑‍💻 Currently exploring <b>IoT</b>, <b>Machine Learning</b>, and <b>Data Structures</b></li>  
+  <li>🚀 <b>Entrepreneurial Dreamer</li>  
+  <li>📚 Constant learner, whether it's coding or discovering how to optimize life</li>  
+  <li>🎮 Tech enthusiast</li>  
 </ul>  
 
 ---
