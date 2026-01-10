@@ -63,13 +63,6 @@
 
 ---
 
-<h3 align="left">🌟 My GitHub at a Glance:</h3>  
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmanask&show_icons=true&locale=en&layout=compact&theme=dark" alt="GitHub Stats" />
-</p>  
-
----
-
 <h3 align="left">✨ About Me:</h3>  
 <ul>  
   <li>🧑‍💻 Currently exploring <b>IoT</b>, <b>Machine Learning</b>, and <b>Data Structures</b></li>  
