@@ -11,12 +11,6 @@
 🌟 Turning ideas into impactful projects | 🌍 Building for a connected world | 🧠 Solving problems, one line of code at a time
 </p>  
 
----
-
-<img align="center" src="https://github.com/user-attachments/assets/d642af6b-efa7-4603-8523-14a40db86500" alt="animated-gif" style="display:block; margin:auto;" />
-
----
-
 <h3 align="left">🌐 Connect with Me:</h3>
 
 <p align="left">  
