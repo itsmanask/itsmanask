@@ -75,7 +75,7 @@
 
 <h3 align="left">✨ About Me:</h3>
 <ul>
-  <li>🤖 Working on <b>Deep Learning</b> and <b>Edge AI</b> - trained on NVIDIA A100, deployed on Jetson Nano</li>
+  <li>🤖 Working on <b>Deep Learning</b> and <b>Edge AI</b> - trained on NVIDIA A100 GPU Servers, deployed on Jetson Nano</li>
   <li>🌱 Built an IoT irrigation system with sub-30ms ML inference on ESP32-S3, no cloud needed</li>
   <li>📄 Author of 3 IEEE-published research papers. Explore my academic publications and citation profile on <a href="https://scholar.google.com/citations?user=MKnuCQ4AAAAJ&hl">Google Scholar</a>.</li>
   <li>🚀 Entrepreneurial dreamer</li>
