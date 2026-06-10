@@ -22,10 +22,11 @@
 <a href="https://twitter.com/itsmanask" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="https://t.me/itsmanask" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="Telegram" height="30" width="40" /></a>
 <a href="https://scholar.google.com/citations?user=MKnuCQ4AAAAJ&hl" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/itsmanask/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 <a href="https://ieeexplore.ieee.org/author/165747226709516" target="_blank">
   <img align="center" src="https://cdn.simpleicons.org/ieee" alt="IEEE Xplore" height="30" width="40" />
-</a>
+</a>  
+<a href="https://leetcode.com/u/itsmanask/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+
 </p>
 
 ---
